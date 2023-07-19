@@ -1,0 +1,15 @@
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/bin/Debug/net7.0/homework5
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/bin/Debug/net7.0/homework5.deps.json
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/bin/Debug/net7.0/homework5.runtimeconfig.json
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/bin/Debug/net7.0/homework5.dll
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/bin/Debug/net7.0/homework5.pdb
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/obj/Debug/net7.0/homework5.csproj.AssemblyReference.cache
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/obj/Debug/net7.0/homework5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/obj/Debug/net7.0/homework5.AssemblyInfoInputs.cache
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/obj/Debug/net7.0/homework5.AssemblyInfo.cs
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/obj/Debug/net7.0/homework5.csproj.CoreCompileInputs.cache
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/obj/Debug/net7.0/homework5.dll
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/obj/Debug/net7.0/refint/homework5.dll
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/obj/Debug/net7.0/homework5.pdb
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/obj/Debug/net7.0/homework5.genruntimeconfig.cache
+/Users/alevtinabarinova/Desktop/GreekBrains/Язык C#/Seminar/homework05/homework5/obj/Debug/net7.0/ref/homework5.dll
